@@ -1,0 +1,51 @@
+Altium Designer Pick and Place Locations
+C:\Users\adamt\OneDrive\Documents\Drone\PCB\Camera Board\Project Outputs for Camera Board\Pick Place for Camera Board.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       08-02-26
+Time:       13:23
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"C12","0.1uF","TopLayer","FP-GRM155-0_05-IPC_B","20.8280","12.9540","90","Chip Multilayer Ceramic Capacitors for General Purpose, 0402, 0.10uF, X7R, 15%, 10%, 50V"
+"C6","0.1uF","TopLayer","FP-GRM155-0_05-IPC_B","17.7800","13.3350","180","Chip Multilayer Ceramic Capacitors for General Purpose, 0402, 0.10uF, X7R, 15%, 10%, 50V"
+"C5","0.1uF","TopLayer","FP-GRM155-0_05-IPC_B","22.6060","13.2080","0","Chip Multilayer Ceramic Capacitors for General Purpose, 0402, 0.10uF, X7R, 15%, 10%, 50V"
+"C2","0.1uF","TopLayer","FP-GRM155-0_05-IPC_B","18.7960","19.5580","180","Chip Multilayer Ceramic Capacitors for General Purpose, 0402, 0.10uF, X7R, 15%, 10%, 50V"
+"C1","15pF","TopLayer","FP-CC0402-0_55-IPC_B","16.1290","19.4310","180","CAP CER 15PF 50V C0G/NPO 0402"
+"J1","F31W-1A7H1-11024","TopLayer","AMPHENOL_F31W-1A7H1-11024","17.5620","16.3860","180","Flex Connector, 0.50mm Pitch, Height 4.25mm, Vertical, Slider type, ZIF, 24 position, Without MYLAR"
+"R7","470R","TopLayer","RESC1608X55X25LL10T15","2.1590","19.7660","180","General Purpose Chip Resistor, 470 Ohm, +/- 1%, -55 to 155 degC, 0603 (1608 Metric), RoHS, Tape and Reel"
+"R6","470R","TopLayer","RESC1608X55X25LL10T15","2.1590","21.5440","180","General Purpose Chip Resistor, 470 Ohm, +/- 1%, -55 to 155 degC, 0603 (1608 Metric), RoHS, Tape and Reel"
+"D4","LTST-C191GKT","TopLayer","FP-LTST-C191GKT-MFG","4.6360","19.7660","0","LED GREEN CLEAR CHIP SMD"
+"D3","LTST-C191GKT","TopLayer","FP-LTST-C191GKT-MFG","4.6360","21.5671","0","LED GREEN CLEAR CHIP SMD"
+"R12","4k7","TopLayer","RESC1608X55X25LL10T15","30.6070","33.4010","90","Chip Resistor, 4.7 KOhm, +/- 1%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric), RoHS, Tape and Reel"
+"R11","4k7","TopLayer","RESC1608X55X25LL10T15","29.3370","33.4010","90","Chip Resistor, 4.7 KOhm, +/- 1%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric), RoHS, Tape and Reel"
+"U4","LD1117S12TR","TopLayer","SOT-223_M","30.9880","12.8790","270","Fixed Low Drop Positive Voltage Regulator, 1.2V, 4-Pin SOT-223, Tape and Reel"
+"U3","TLV77328PDBVR","TopLayer","DBV0005A_MFG","32.1310","21.7980","90","300-mA high-PSRR low-IQ low-dropout regulator with enable 5-SOT-23 -40 to 85"
+"U2","LD1117S33CTR","TopLayer","FP-SOT-223-0046067_14-MFG","4.0640","14.4780","90","IC REG LINEAR 3.3V 800MA SOT223"
+"U1","ESP32-S3-WROOM-1U-N16R8","TopLayer","ESP32-S3-WROOM-1U_EXP","18.0070","31.1928","0","Description"
+"R10","Jumper 0603","TopLayer","RESC0603(1608)_L","5.7150","35.5140","90","Jumper 0603"
+"R9","10k","TopLayer","FP-RC0603-0_55-IPC_C","29.0830","31.1960","180","RES 10K OHM 1% 1/10W 0603"
+"R8","10k","TopLayer","FP-RC0603-0_55-IPC_C","7.2390","35.5140","90","RES 10K OHM 1% 1/10W 0603"
+"R5","1k","TopLayer","FP-RC0603-0_55-IPC_C","22.7330","11.3030","180","RES 1K OHM 1% 1/10W 0603"
+"R4","22R","TopLayer","RESC1608X55X25NL10T15","6.8580","24.7190","0","Chip Resistor, 22 Ohm, +/- 1%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric), RoHS, Tape and Reel"
+"R3","22R","TopLayer","RESC1608X55X25NL10T15","6.8580","23.3220","0","Chip Resistor, 22 Ohm, +/- 1%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric), RoHS, Tape and Reel"
+"R2","5k1","TopLayer","RESC1608X55X25ML10T15","14.7320","9.0170","180",""
+"R1","5k1","TopLayer","RESC1608X55X25ML10T15","24.6380","9.3980","0",""
+"J4","Conn_Pad_01x08","TopLayer","CONN_SM08B-GHS-TB_JST","1.2275","35.4920","90","Description"
+"J3","Conn_Pad_01x08","TopLayer","CONN_SM08B-GHS-TB_JST","33.9515","35.4920","90","Description"
+"J2","USB4105-GF-A","TopLayer","GCT_USB4105-GF-A","18.0070","5.2525","0",""
+"D2","USBLC6-2P6","TopLayer","FP-SOT-666-MFG","19.0500","9.8600","0","TVS DIODE 5.25V 17V SOT666"
+"D1","SM4007PL","TopLayer","MCC-SOD-123FL_V","24.2570","6.1770","270","Silion Rectifier, 1 A, 1000 V, -65 to 175 degC, 2-Pin SMD, RoHS, Tape and Reel"
+"C14","10uF","TopLayer","FP-GRM18-0_15-MFG","27.6730","9.8600","180","CAP CER 10UF 10V X5R 0603"
+"C13","0.1uF","TopLayer","FP-CC0603-DA-MFG","29.7180","18.7500","0","CAP CER 0.1UF 50V X7R 0603"
+"C11","0.1uF","TopLayer","FP-CC0603-DA-MFG","6.4890","37.6730","180","CAP CER 0.1UF 50V X7R 0603"
+"C10","1uF","TopLayer","FP-CC0603-DB-MFG","29.3370","21.4170","270","CAP CER 1UF 50V X7R 0603"
+"C9","10uF","TopLayer","FP-GRM18-0_15-MFG","4.1910","9.3520","0","CAP CER 10UF 10V X5R 0603"
+"C8","0.1uF","TopLayer","FP-CC0603-DA-MFG","6.8580","9.3980","180","CAP CER 0.1UF 50V X7R 0603"
+"C7","1uF","TopLayer","FP-CC0603-DB-MFG","32.7660","18.7500","180","CAP CER 1UF 50V X7R 0603"
+"C4","0.1uF","TopLayer","FP-CC0603-DA-MFG","7.1120","39.9590","90","CAP CER 0.1UF 50V X7R 0603"
+"C3","10uF","TopLayer","FP-GRM18-0_15-MFG","5.2070","39.9590","90","CAP CER 10UF 10V X5R 0603"

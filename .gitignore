@@ -1,0 +1,44 @@
+# Altium Designer PCB Project
+
+# History and backup files
+History/
+**/__History/
+
+# Project previews (auto-generated)
+__Previews/
+**/__Previews/
+
+# Project logs
+Project Logs*/
+**/Project Logs*/
+
+# Lock files
+*.LCK
+*.~*
+
+# Temporary files
+*.LOG
+*.B$*
+*.S$*
+*.O$*
+*.Dat
+
+# CAMtastic files (optional - comment out if you want to version these)
+*.CAM
+*.APR_LIB
+
+# PDF outputs (optional - uncomment to ignore generated PDFs)
+*.PDF
+
+# Gerber outputs (optional - uncomment to ignore all Gerber outputs)
+# Project Outputs*/
+**/Project Outputs*/
+
+# OS files
+.DS_Store
+Thumbs.db
+*.tmp
+
+# Archive files (optional)
+*.Zip
+*.RAR
