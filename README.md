@@ -30,7 +30,7 @@ This board can be manufactured through JLCPCB with their PCB Assembly (PCBA) ser
 
 | Item           | Cost       | Quantity | Link                                                  |
 | -------------- | ---------- | -------- | ----------------------------------------------------- |
-| PCB from JLC   | $45.51     | 1        | [Images/cart.png](Images/cart.png)                    |
+| PCB from JLC   | $45.51     | 1        | [Images/Cart.png](Images/Cart.png)                    |
 | ESP32-WROOM-1U | $5.33      | 1        | https://www.lcsc.com/product-detail/C3013946.html     |
 | OV2640 Camera  | $6.65      | 1        | https://www.aliexpress.com/item/1005003040149873.html |
 | **Total**      | **$57.49** |          |                                                       |
